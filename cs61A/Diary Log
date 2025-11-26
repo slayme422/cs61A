@@ -5,9 +5,157 @@ The learning course website is 'https://web.archive.org/web/20210109215337/https
 
 Edit Preview
 ## 2025-05-19
-- I completed the lecture 0 video and lab00 setting.
+- CS61A:I completed the lecture 0 video and lab00 setting.
 - 
-- 
-
 ## 2025-05-20
+—I modified my own project cardDesignProject, can check from my repository(card-collection-project)
+-I created cardlist.jsx component, MyCardList.jsx
+-I workout(leg)
+-
+## 2025-05-21
+—(CS61A):I completed the lecture 1 video and Q&A video,managed to finish the lecture1 homework.
+-(card-collection-project): I created the nav bar and nav bar css.
+-I workout(back)
+-
+## 2025-05-22
+-(CS61A) lecture 2 completed
+-study Japanese for 3 hours today 
+-
+## 2025-05-23
+—(CS61A) lecture 3 and 4completed and problem set0
+- morning spend 3hours finish a leetcode 49 (mid level&HashMap) by using Java
 - 
+-
+## 2025-05-25
+—(CS61A) Project1 <HOG> problem(0-8) completed
+- 
+- 
+## 2025-05-26
+—(CS61A) lecture5 completed (it was bit hard) (Higheroderfunction,Curry,Environment(What is Global Frame, Object and how to use graph?))
+-full-understand the concept of return:sometimes return a value or a tool;(有时候返回的事结果，或者一个带状态的工具)
+-evening finish a leetcode 128(mid level) by using Java(考察了set去重复，set是无序无重复无索引，利用current变量记录set遍里出来的值)
+- workout (shoulder)
+- 
+-
+## 2025-05-27
+—(CS61A) Project1 <HOG> All problem completed
+-evening finish a leetcode 11(mid level) by using Java(考察了双指针，贪心算法)
+—
+## 2025-05-28
+—(CS61A) lecture6 completed
+- 
+## 2025-05-29
+—(CS61A) lecture7 completed and half of lab02 finished
+-
+- 
+## 2025-05-30
+—(CS61A) lecture 8 completed （recursion which is a hard concept）
+-
+- 
+## 2025-05-31 and 06-01
+—lab2 completed(lambada concept) and HW3 recursion(1 problem left)
+-workout(shoulder)
+- 
+## 2025-06-02 and 06-09
+- go back to China and have a break
+- meet a lot of interesting person
+- improvement: don't be afraid to talk to new people, you just need to speak one sentence then it's enough.
+-              don't be impulsive.
+-
+## 2025-06-10
+—(CS61A) lecture 10 completed 
+-        lab03 (50%)
+- 
+## 2025-06-11
+—(CS61A) lecture 11 completed 
+-        lab03 (100%)
+-        lab04 (50%)
+-
+## 2025-06-12
+—(CS61A) 
+-        lab04 (100%)
+-        workout(leg)
+-
+## 2025-06-13
+—(CS61A) lecture 12 (50%)
+-        Cat homework (2 problems)
+- 
+## 2025-06-13
+—(CS61A) 
+-        Cat homework ((3-6) 4 problems) (hard)
+-        
+## 2025-06-16- 2025-06-18
+- Cat homework(6-10) completed(pretty hard)
+-
+## 2025-06-20
+—(CS61A) 
+-       trying my best to figure out  lecture(12) (tree(structure))
+-   
+## 2025-06-21
+—(CS61A) 
+-       lecture 12 finished(tree strcuture)
+-   
+## 2025-06-22
+—(CS61A) 
+-       lecture 13 finished(easy part) 1.5h finished
+-   
+## 2025-06-23
+—(CS61A) 
+-       lecture 14，15 16 finished(easy part)
+-   
+## 2025-06-24
+—(CS61A) 
+-       lecture 17 finished lab 5 finished
+-   
+## 2025-06-25-2025-06-28
+-(CS61A)
+-
+-       lecture 18-lecture 19-lecture 20 completed 
+-       lab05-lab06 completed
+-
+## 2025-06-30-2025-07-07
+-(CS61A)
+-       lecture 19-lecture 22 finished
+-       Lab 6 HW4 completed
+-       HW5 compeleted
+-
+##2025-07-08-2025-07-09
+-(CS61A)
+-      lecture 23 24 completed except record but all about mid term
+-      HW5 completed
+-      Ants phase 1 completed
+-      Lab07 completed
+
+##2025-07-10-2025-07-28
+- was busy doing homework and forgot to write dairy
+-(CS61A)
+-Project Ants completed
+-HW6 HW7 Lab8 Lab9 completed
+-Lecture 25-30 completed
+-beging to do scheme project
+-get a basic knowledge from tutorial about TouchDesigner(which is a audio visual program)
+-了解了什么是bpm，怎么讲提取音乐的特征，比如音乐的beat通过 Chop Math kick(limit) Spectrum Lag NUll来获取音乐特征,之后在Export（移动文件）让一个球变大或者缩小。
+
+##2025-07-30
+- (CS61A)
+- (morning (review lecture 27))
+##2025-07-31
+-（CS61A)
+-Scheme Part I completed
+-
+##2025-08-01
+-(CS61A)
+-Scheme Part II completed
+-
+##2025-08-04
+-(CS61A)
+-Scheme Part III almost completed(problems 15 16 left)
+-HW8 completed
+-
+##2025-08-10
+-(CS61A)
+-lecture 31 completed
+
+##2025-08-11
+-(CS61A)
+-Scheme, lab10 completed
