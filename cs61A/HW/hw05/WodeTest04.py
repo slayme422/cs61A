@@ -1,0 +1,9 @@
+dictionary={}
+"""
+wyz的老妈:我的媳妇儿。wyz:我是他爹
+"""
+dictionary={}
+dictionary["wyz的老妈"]="小日的媳妇儿"
+dictionary["wyz"]="我是他爹"
+print(dictionary)
+print(dictionary.get("wyz"))
